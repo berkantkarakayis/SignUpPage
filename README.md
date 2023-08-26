@@ -1,10 +1,9 @@
 # SignUpPage
 
-=====================LIVE DEMO======================
-=                                                  =
-=  https://berkantkarakayis.github.io/SignUpPage/  =
-=                                                  =
-====================================================
+====LIVE DEMO====
+
+ https://berkantkarakayis.github.io/SignUpPage/  
+
 
 ![image](https://github.com/berkantkarakayis/SignUpPage/assets/102322084/4ab5a3c8-7966-4b01-a5f0-ee58fe5d096a)
 
